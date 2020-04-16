@@ -48,7 +48,7 @@ CREATE TABLE `clientes` (
 --
 
 INSERT INTO `clientes` (`id`, `nome`, `data_nasc`, `cpf`, `rg`, `telefone`, `cep`, `rua`, `bairro`, `cidade`, `uf`, `numero`) VALUES
-(13, 'Gustavo Araujo Ribeiro', '1111-11-11', '111.111.111-11', '11.111.111-1', '(11) 11111-1111', 13483231, 'Rua Ferdinando Antônio Moreira', 'Jardim Caieira', 'Limeira', 'SP', 111);
+(13, 'Gustavo Araujo Ribeiro', '1111-11-11', '111.111.111-11', '11.111.111-1', '(11) 11111-1111', 13480-905, 'Rua Carlos Gomes 757', 'Centro', 'Limeira', 'SP', 111);
 
 -- --------------------------------------------------------
 
