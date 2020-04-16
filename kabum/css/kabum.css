@@ -1,0 +1,184 @@
+body {
+	padding: 0px;
+	margin: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	background: rgb(236, 75, 26);
+}
+
+a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+.btnCadastraCliente {
+	margin-left: 100px;
+}
+
+.login {
+	width: 20%;
+	background-color: #FFFFFF;
+	margin-left: 40%;
+	border-radius: 10px;
+	margin-top: 10%;
+	font-weight: bold;
+	font-size: 20px;
+	padding: 10px;
+}
+
+.formulario_usuario
+{
+	border: 1px solid #CCC;
+	border-radius: 5px;
+	padding: 10px;
+	color: #000000;
+	padding-right: 25%;
+}
+
+.formulario_cliente {
+	border-radius: 10px;
+	background-color: #CDC5BF;
+	padding: 10px;
+	color: #000000;
+	padding-right: 0%;
+	margin-left: 7%;
+	margin-right: 70%;
+}
+
+.dados-cliente {
+	border: 1px solid #CCC;
+	border-radius: 5px;
+	padding: 10px;
+	color: #000000;
+	padding-right: 25%;
+}
+
+.formulario-login {
+	position: relative;
+	width: 90%;
+	margin-top: 10%;
+	margin-left: 5%;
+}
+
+button {
+	background: rgb(50,50,205);
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 14px;
+	padding: 10px;
+}
+
+header {
+	width: 100%;
+	float: left;
+	height: 208px;
+	background-color: #000000;
+	background-position: top 50%;
+
+}
+
+.saudacao {
+	float: right;
+	position: relative;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #000000;
+	padding-top: 13px;
+	padding-right: 60px;
+	margin-left: 1%;
+}
+
+#menu {
+	width: 100%;
+	height: 55px;
+	background-color: #000000;
+	display: inline-block;
+}
+
+ul,
+li {
+	display: inline;
+	position: relative;
+}
+
+#menu ul {
+	top: 17.5px;
+	list-style: none;
+	left: 34.5%;
+}
+
+#menu ul li {
+	padding-left: 30px;
+	padding-right: 30px;
+
+}
+
+#menu ul li a {
+	background-color: #FFFFFF;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 14px;
+	border: solid 3px;
+	border-radius: 10px;
+	border: 5;
+	padding: 10px;
+}
+
+#menu ul li a:hover {
+	background-color: #FFFFFF;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 14px;
+	border: solid 3px;
+	border-radius: 10px;
+	border: 5;
+	padding: 10px;
+}
+
+#conteudo {
+	clear: both;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+h2 {
+	padding-left: 50px;
+	padding-top: 25px;
+	margin-left: 60px;
+	margin-right: 60px;
+	color: #FFFFFF;
+}
+
+table {
+	width: 100%;
+}
+
+table tr {
+	background-color: #FFFFFF;
+	font-size: 12px;
+	text-align: left;
+}
+
+table tr th {
+	color: #000000;
+	padding: 5px;
+}
+
+table tr td {
+	color: #000000;
+	padding: 5px;
+	border-bottom: #FFFFFF;
+	background-color: #FFFFFF;
+}
+
+.topico {
+	margin-left: 4.5%
+}
+
+.logo-kabum {
+    float: left;
+    position: relative;
+    width: 100%;
+    margin-left: 10%;
+    margin-top: 2.5%;
+}
